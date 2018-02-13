@@ -34,7 +34,13 @@
     <Compile Include="common\SqlHelper.js">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="controllers\Currency.js">
+    <Compile Include="common\VerifyToken.js">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="controllers\CurrencyController.js">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="controllers\UsersController.js">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="models\country.js">

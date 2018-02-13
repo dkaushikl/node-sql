@@ -8,8 +8,9 @@ var bodyParser = require('body-parser');
 
 // Routing
 var routes = require('./routes/index');
-var users = require('./routes/users');
-var currency = require('./controllers/Currency');
+//var users = require('./routes/users');
+var currency = require('./controllers/CurrencyController');
+var users = require('./controllers/UsersController');
 
 
 var app = express();
