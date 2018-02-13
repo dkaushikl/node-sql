@@ -1,0 +1,3 @@
+C:\Users\Elaunch\source\repos\Demo\Node-sql\obj\Debug\Node-sql.njsprojResolveAssemblyReference.cache
+C:\Users\Elaunch\source\repos\Demo\Node-sql\obj\Debug\Node-sql.njsproj.CoreCompileInputs.cache
+C:\Users\Elaunch\source\repos\Demo\Node-sql\bin\Microsoft.NodejsTools.WebRole.dll

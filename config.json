@@ -1,0 +1,16 @@
+﻿{
+  "storage": {
+    "pool": {
+      "user": "ducoinuser",
+      "password": "ducoin!@#789",
+      "server": "108.163.247.146",
+      "port": 1188,
+      "database": "elaunch_ducoin",
+      "pool": {
+        "max": 10,
+        "min": 0,
+        "idleTimeoutMillis": 30000
+      }
+    }
+  }
+}
